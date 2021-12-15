@@ -13,6 +13,7 @@ Comme tu le vois actuellement.
   <img align="center" alt="Rafa-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
 
+### Tu peux avoir le résumé de mes stats
 
 ![Bongouade Github stats](https://github-readme-stats.vercel.app/api?username=bongouade)
 
