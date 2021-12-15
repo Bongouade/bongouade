@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salut 👋
 
 Tu veux une astuce ?
 
@@ -10,9 +10,9 @@ Comme tu le vois actuellement.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-
   <img align="center" alt="Rafa-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
+
 
 ![Bongouade Github stats](https://github-readme-stats.vercel.app/api?username=bongouade)
 
