@@ -15,7 +15,7 @@ Si vous recherchez un FLUTTER EXPERT, vous êtes au bon endroit - je me réjouis
 
 ### Tu peux avoir le résumé de mes stats
 
-![Bongouade Github stats](https://github-readme-stats.vercel.app/api?username=bongouade)
+![Bongouade Github stats](https://github-readme-stats.vercel.app/api?username=davidbongouade)
 
 
 
